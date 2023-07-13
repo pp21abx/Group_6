@@ -1,0 +1,20 @@
+group: 
+
+members: [, , , ]
+
+Search_String: ("Machine Learning algorithms " AND "detection and prevention") OR ("Cyber threats" AND "IT industry")
+
+num_papers: 22
+
+inclusion_criteria:
+	- Included paper should be published in journal
+    	- Included paper must be published after year 2020
+    	- Peer-reviewed research articles, conference papers, and academic dissertations will be considered for inclusion.
+    	- Included Paper should discuss about cybersecurity and ways to ensure ensure cyber security
+
+exclusion_criteria:
+	- Duplicate papers will be excluded
+    	- Studies published in languages other than English will be excluded
+   	 - Exclude the papers which are discussing about the cybersecirty cases occured in the past
+    	- Exclude the papers published before 2018
+
